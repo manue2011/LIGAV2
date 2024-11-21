@@ -35,7 +35,8 @@ public class appLigaV2 {
         Jugador j21 = new Jugador ("Sergio Busquets", Puesto.CENTRAL,5,39,104,true);
         Jugador j22 = new Jugador ("Dani Alves", Puesto.DEFENSA,2,47,311,false);
         Jugador j23 = new Jugador ("Gerard Pique", Puesto.DEFENSA,3,37,81,false);
-		
+		//---------------------- 
+        
 		
 		Equipo e1=new Equipo();//"barcelona","nou camp");
 		e1.setNombre("barcelona");
