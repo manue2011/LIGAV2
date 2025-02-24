@@ -6,7 +6,7 @@ public class appLigaV2 {
 	}
 
 	public static void main(String[] args) {
-		
+		//kjkj
 		
 		Jugador j1 = new Jugador();
 		j1.setnombre("johan cruiff");
